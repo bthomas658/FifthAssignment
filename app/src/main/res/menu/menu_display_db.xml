@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.thomas.Assignment5.DisplayDB">
+
+    <item
+        android:id="@+id/enterValues"
+        android:title="@string/enterValues"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+
+</menu>
